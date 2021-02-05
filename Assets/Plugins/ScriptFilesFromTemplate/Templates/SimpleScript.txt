@@ -1,0 +1,23 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using UnityEngine;
+
+#ROOTNAMESPACEBEGIN#
+    /// <summary>
+    /// <see cref="#SCRIPTNAME#"/> is the class that ***.
+    /// </summary>
+    public class #SCRIPTNAME#
+    {
+        /// <summary>
+        /// Constructor initializes that a new instance of <see cref="#SCRIPTNAME#"/> class.
+        /// </summary>
+        public #SCRIPTNAME#()
+        {
+            #NOTRIM#
+        }
+    }
+#ROOTNAMESPACEEND#
